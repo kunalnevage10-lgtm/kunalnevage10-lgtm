@@ -1,6 +1,6 @@
 # Hi there, I'm Kunal Nevage! 👋
 
-I am a 2nd-year **AI & Data Science Engineering** student at Alard University, Pune. I love building innovative solutions and exploring new tech.
+I am a 3rd-year **AI & Data Science Engineering** student at Alard University, Pune. I love building innovative solutions and exploring new tech.
 
 ### 🚀 Currently Working On:
 - **LiFi (Lumina Link):** Optical data transmission system.
